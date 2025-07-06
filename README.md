@@ -57,15 +57,3 @@ sdf
 sadf
 sad
 f
-sdfasdf
-asdfasd
-sadfas
-
-sadfas
-s
-dfas
-dfa
-sf
-as
-df
-sd
