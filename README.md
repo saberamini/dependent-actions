@@ -23,3 +23,8 @@ df
 sd
 fs
 dgit add .
+sdfsd
+sdfs
+sfsd
+sf
+dsfsdfsfsddfs
