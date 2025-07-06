@@ -14,3 +14,12 @@ sd
 f
 sdf
 sd
+
+sdfs
+df
+sd
+fs
+df
+sd
+fs
+dgit add .
